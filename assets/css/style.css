@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+body{
+    background-color: rgb(53, 170, 6);
+    font-size: 35px;
+}
+.kaart1{
+    width: 150px;
+    height: 270px;
+    background-color: white;
+    border-radius:10px ;
+}
+.kaart1p{
+    float: left;
+    padding-left: 15px;
+    margin-top: 0px;
+}
+.img-normal{
+    float: left;
+    margin-top: 35px;
+    margin-left: -25px;
+    width: 25px;
+    height: 25px;
+}
+
+.kaart2{
+    width: 150px;
+    height: 270px;
+    background-color: white;
+    border-radius:10px ;
+    margin-left: 150px;
+}
+.kaart2 p{
+    float: left;
+    padding-left: 15px;
+    margin-top: 0px;
+    color:rgb(199, 3, 3);
+}
+.kaart2 img{
+    float: left;
+    margin-top: 35px;
+    margin-left: -25px;
+    width: 25px;
+    height: 25px;
+}
+.kaart3{
+    width: 150px;
+    height: 270px;
+    background-color: white;
+    border-radius:10px ;
+    margin-left: 300px;
+}
+.kaart3p{
+    float: left;
+    padding-left: 15px;
+    margin-top: 0px;
+}
+/* .kaart3 img{
+    float: left;
+    margin-top: 35px;
+    margin-left: -25px;
+    width: 25px;
+    height: 25px;
+} */
+.kaart4{
+    width: 150px;
+    height: 270px;
+    background-color: white;
+    border-radius:10px ;
+    margin-left: 450px;
+}
+.kaart4 p{
+    float: left;
+    padding-left: 15px;
+    margin-top: 0px;
+    color: rgb(199, 3, 3);
+}
+.kaart4 img{
+    float: left;
+    margin-top: 35px;
+    margin-left: -25px;
+    width: 25px;
+    height: 30px;
+}
+.upsidedownzwart{
+    /* clear:left; */
+    float: right;
+    transform: rotate(180deg);
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-top: -98px;
+    margin-left: 20px;
+    margin-right: 9px;
+
+}
+.upsidedownzwartp{
+    /* clear:left; */
+    float: right;
+    transform: rotate(180deg);
+    margin-left: 90px;
+    margin-top: 53px;
+    margin-right: 9px;
+}
+.imgmid{
+    width: 100px;
+    height: 100px;
+    margin-top: 85px;
+    margin-left: 30px;
+    display: block;
+    clear: left;
+}
