@@ -22,9 +22,10 @@ body{
   }
 .kaart1{
     width: 150px;
-    height: 270px;
+    height: 240px;
     background-color: white;
     border-radius:10px ;
+    margin-top: 5px;
 }
 .kaart1p{
     float: left;
@@ -41,7 +42,7 @@ body{
 
 .kaart2{
     width: 150px;
-    height: 270px;
+    height: 240px;
     background-color: white;
     border-radius:10px ;
     margin-left: 150px;
@@ -61,7 +62,7 @@ body{
 } */
 .kaart3{
     width: 150px;
-    height: 270px;
+    height: 240px;
     background-color: white;
     border-radius:10px ;
     margin-left: 300px;
@@ -80,7 +81,7 @@ body{
 } */
 .kaart4{
     width: 150px;
-    height: 270px;
+    height: 240px;
     background-color: white;
     border-radius:10px ;
     margin-left: 450px;
@@ -115,7 +116,7 @@ body{
     float: right;
     transform: rotate(180deg);
     margin-left: 90px;
-    margin-top: 43px;
+    margin-top: 14px;
     margin-right: 9px;
 }
 .imgmid{
@@ -132,7 +133,7 @@ body{
     float: right;
     transform: rotate(180deg);
     margin-left: 90px;
-    margin-top: 43px;
+    margin-top: 17px;
     margin-right: 9px;
     color: rgb(199, 3, 3);
 }
